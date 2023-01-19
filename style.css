@@ -3,6 +3,10 @@ body{
 	font-family: Arial;
 }
 
+.centered{
+	text-align: center;
+}
+
 .h1{
 	text-align: center;
 }
@@ -12,7 +16,7 @@ body{
 
 
 #p1 {
-	color: dark green;
+	color: DarkGreen;
 }
 #other-text{
 	text-align:left;
